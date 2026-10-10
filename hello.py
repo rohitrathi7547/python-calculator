@@ -1,0 +1,5 @@
+name= input("What's your name?").strip().title()
+print(f"hello{name}")
+age = input("enter age")
+print(f"Your age is {age}")
+input("press enter to stop")
